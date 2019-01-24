@@ -1,0 +1,1364 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SGBITPlacementManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.Voucher_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.Voucher_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.Voucher_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.Voucher_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Voucher_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet.HostelersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.HostelersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.Hostelers_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.Hostelers_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.Hostelers_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.Hostelers_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Hostelers_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CashTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckOutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CreditTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueChargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ExtraServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.FeePaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.PurchasedInventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RegistrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ConcessionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.UsersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueAmountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckInDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RefundDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomAllotmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CashTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckOutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CreditTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueChargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ExtraServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.FeePaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.PurchasedInventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RegistrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ConcessionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.UsersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueAmountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckInRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RefundRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomAllotmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CashTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckOutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CreditTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueChargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ExtraServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.FeePaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.HostelersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.PurchasedInventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RegistrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.ConcessionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.UsersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.DueAmountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.CheckInRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RefundRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet.RoomAllotmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.CashTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.CheckOutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.CreditTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.DueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.DueChargesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.ExtraServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.FeePaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.HostelersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.PurchasedInventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.RegistrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.RoomTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.ConcessionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.UsersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.DueAmountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.CheckInTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.RefundTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.HMS_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.HMS_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.HMS_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources._21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources._22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.about">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.accounts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.add_suer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.add_suer1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.add_user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Admin_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Admin_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Admin_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.back3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Background1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.background2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.background21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.backup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.batch">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.calc">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.cancel1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.cancel2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.celebration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.celebration1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.celebration2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.checkout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.checkout1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.college">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.company">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.company1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Create_User">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.custom_reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.data">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.data_backup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.delete6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.docs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.documemts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Downloads_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.due_date">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Excel_icon9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.feePayment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.gb329">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.go">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Groups_Meeting_Dark_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.header">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.header_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.header1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.header11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hobby">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hostel_clip_art_white_md">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hostel_clip_art_white_md1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hostel_clip_art_white_md2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hostelers">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.hotel_clip_art_white_hi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Hotel_Icon_Has_Secure_Storage_In_Room_480x480">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.images1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.images5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.images51">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.IRMA_Placements">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Log_Details">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Log_out">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Log_out1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Log_out2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Log_out3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.login_page">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.logout__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.logout1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.logout2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.MS_Word_2_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Notepad1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Ok_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Ok_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Ok_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Ok_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Pay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Payment_Methods_Card_in_use_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.profile">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.quote_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.ReAllotment5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Refresh_icon9">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.refundpng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Registration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.registration_20form">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.registration_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.registration_icon_up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Registration1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.RegistrationIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.RegistrationIcon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.room">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.salary_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.salary_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Save_as_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Save_as_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.save1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.save2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.save3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.save4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.school_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.school_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.school_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Search_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Search_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.shivabasav_swamiji">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.stat">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.stock_illustration_11634898_hotel_services_icons">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.stock_illustration_17870319_hotel_services_icons">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.system_information_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.task_manager1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.text_file_icon_blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.time_1920x1200">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.top_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.training">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Transaction_3D_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Travel_registration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.update6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.User_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.User_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Usergroup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SGBITPlacementManagementSystem.My.Resources.Resources.Wordpad_icon__Windows_7_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HostelersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RegChargesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RoomAllotmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HobbiesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HostelersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RegChargesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RoomAllotmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HobbiesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HostelersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RegChargesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.RoomAllotmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet.HobbiesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.HostelersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.RegChargesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.RegCharges_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.RegCharges_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.RegCharges_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.RegCharges_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.RegCharges_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.Quotation_DBDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.Quotation_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.Quotation_DBDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.Quotation_DBDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation_DBDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.HostelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.QuotationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.HostelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.QuotationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.HostelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation.QuotationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.Quotation">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.QuotationTableAdapters.HostelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.QuotationTableAdapters.QuotationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.UpdateUpdatedRows(SGBITPlacementManagementSystem.Quotation,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.UpdateInsertedRows(SGBITPlacementManagementSystem.Quotation,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.UpdateDeletedRows(SGBITPlacementManagementSystem.Quotation,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.UpdateAll(SGBITPlacementManagementSystem.Quotation)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SGBITPlacementManagementSystem.QuotationTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

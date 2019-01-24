@@ -1,0 +1,1087 @@
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITHMS 15-02-2018\HostelManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+F:\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\PMS_DB.accdb
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+E:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+G:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\AICSES\Desktop\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationStatistics.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationStatistics.resources
+C:\Users\Public\Documents\SGBITPMS V 1.00\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationStatistics.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.config
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe.manifest
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.application
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.exe
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.pdb
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\bin\Debug\SGBITPlacementManagementSystem.xml
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationStatistics.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.Cache
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe.manifest
+G:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.application
+C:\Users\Public\Documents\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojResolveAssemblyReference.cache
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbprojAssemblyReference.cache
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormAddBatchDept.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyEntry.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormCompanyReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormDataBackUp.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormElegibility.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormLogin.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormMain.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormNewDepartment.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacement.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementRegistration.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormPlacementReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormRegistrationStatistics.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormSplash.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentEntry.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FormStudentReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcession.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmConcessionRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDataBackUp.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOut.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestCheckOut.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestReAllocate.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistration.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmGuestRegistrationRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbies.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHobbiesRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmReAllocate.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefund.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRefundRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomChange.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAbout.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountRecordReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmAccountsRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmCheckOutRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueCharges.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueDate.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePayment.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmDueFeePaymentReceipt.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServices.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmExtraServicesRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostel.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerForm.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelerReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucher.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVoucherReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPaymentVouchersReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryRecord1.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchasedInventoryReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotation.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmQuotationReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegCharges.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServicesRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransaction.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionRecord1.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmTransactionReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmChangePassword.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePayment.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReceipt.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentRecord1.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelers.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmHostelersRecord1.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmServices.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLogin.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmLoginDetails.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmMain.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPasswordRecovery.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.FrmPrintOptions.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmPurchaseInventory.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistration.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRegistrationDetails.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoom.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmRoomRecord.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSystemInfo.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.Resources.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmSplash.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.frmFeePaymentReport.resources
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.GenerateResource.cache
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.vbproj.CoreCompileInputs.cache
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.exe
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.xml
+E:\SGBITPMS V 1.1\SGBITPlacementManagementSystem\obj\x86\Debug\SGBITPlacementManagementSystem.pdb
